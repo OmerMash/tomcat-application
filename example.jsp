@@ -10,6 +10,6 @@
 <body>
 <h3>Hi I came from Git</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
-         
+          
 </body>
 </html>
